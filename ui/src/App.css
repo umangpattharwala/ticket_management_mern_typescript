@@ -1,0 +1,19 @@
+.header {
+  margin: auto;
+  width: 50%;
+  top: 50%;
+  padding: 10px;
+  background: #ececec;
+}
+
+.mrgnbtm {
+  margin-top: 20px;
+}
+
+.btncenter {
+  text-align: center;
+}
+
+.mrgnttm10 {
+  margin-bottom: 10px;
+}
